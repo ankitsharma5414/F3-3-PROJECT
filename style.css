@@ -1,0 +1,31 @@
+#heading{
+    position: absolute;
+    left: 47px;
+    top: 310px;
+}
+
+#btn{
+    background-color: rgb(138, 187, 40);
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    top: 370px;
+    left: 20px;
+    border-radius: 20px;
+}
+
+#removeItem{
+    background-color: rgb(231, 81, 81);
+    width: 150px;
+    height: 30px;
+    position: absolute;
+    left: 200px;
+    top: 370px;
+    border-radius: 20px;
+}
+
+#map{
+    position: absolute;
+    top: 265px;
+    left: 20px;
+}
